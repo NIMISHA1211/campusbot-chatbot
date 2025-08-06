@@ -32,7 +32,7 @@ faq-chatbot/
 └── README.md
 ```
 
-##  How to Run
+###  How to Run
 
 ```bash
 ###  Step 1: Install dependencies
